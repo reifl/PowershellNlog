@@ -1,0 +1,5 @@
+# Umgebungsvariablen (enthalten sensible Daten)
+.env
+
+# Claude config
+.claude/
